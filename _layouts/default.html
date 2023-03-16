@@ -5,13 +5,6 @@
   data-dark-theme="dark"
   data-light-theme="light"
 >
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>{{ site.title }}</title>
-    {% include default_head.html %}
-  </head>
-  <body>
-    {{ content }}
-  </body>
+  {% include default_head.html %}
+  {{ content }}
 </html>
