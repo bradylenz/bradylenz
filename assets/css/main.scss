@@ -1,4 +1,15 @@
 ---
 ---
 
-@import "vendor/primer.css";
+@import "vendor/primer/layout";
+@import "vendor/primer/primer";
+
+.avatar-scale {
+    width: 128px;
+    height: 128px;
+
+    @include breakpoint(sm) {
+        width: 192px;
+        height: 192px;
+    }
+}
