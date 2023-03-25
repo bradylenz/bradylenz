@@ -16,7 +16,7 @@ layout: default
         <img
             src="assets/img/headshot.jpg"
             alt="portrait"
-            class="avatar avatar-scale mb-4 mb-sm-0 mr-sm-4 mr-md-6"
+            class="avatar avatar-scale mb-4 mb-sm-0 mr-sm-6"
         />
         <div>
             <h1 class="h1 text-light text-center text-sm-left">Brady Lenz</h1>
