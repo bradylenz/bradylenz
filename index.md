@@ -21,7 +21,7 @@ layout: default
         <div>
             <h1 class="h1 text-light text-center text-sm-left">Brady Lenz</h1>
             <h2 class="h3 text-normal text-mono color-fg-muted text-center text-sm-left">
-                Senior Software Engineer
+                Software Engineer
                 <a
                     href="https://www.webex.com/webex-assistant.html"
                     target="_blank"
