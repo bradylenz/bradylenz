@@ -27,7 +27,7 @@ layout: default
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    @Cisco
+                    @cisco
                 </a>
             </h2>
         </div>
