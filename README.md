@@ -2,7 +2,6 @@
 
 [![GitHub](https://img.shields.io/badge/bradylenz-black?style=flat-square&logo=github)](https://github.com/bradylenz)
 [![LinkedIn](https://img.shields.io/badge/brlenz-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brlenz/)
-[![Email](https://img.shields.io/badge/brady@bradylenz.com-03a8a6?style=flat-square&logo=gmail&logoColor=white)](mailto:brady@bradylenz.com)
 
 ### 🧐 whoami
 
