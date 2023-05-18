@@ -1,7 +1,7 @@
 ## 🤖 Hello, World! I'm Brady.
 
-[![GitHub](https://img.shields.io/badge/bradylenz-black?style=flat-square&logo=github)](https://github.com/bradylenz)
-[![LinkedIn](https://img.shields.io/badge/brlenz-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brlenz/)
+[![GitHub](./assets/img/badges/github.svg)](https://github.com/bradylenz)
+[![LinkedIn](./assets/img/badges/linkedin.svg)](https://www.linkedin.com/in/brlenz/)
 
 ### 🧐 whoami
 
